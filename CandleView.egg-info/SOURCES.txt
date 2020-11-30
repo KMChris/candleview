@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+CandleView/CandleView.py
+CandleView/__init__.py
+CandleView.egg-info/PKG-INFO
+CandleView.egg-info/SOURCES.txt
+CandleView.egg-info/dependency_links.txt
+CandleView.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: CandleView
+Version: 0.0.4
+Summary: Candle chart and other stuff
+Home-page: https://github.com/KMChris
+Author: Krzysztof Mizgała
+Author-email: KMChris007@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
